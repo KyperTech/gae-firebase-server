@@ -1,0 +1,16 @@
+{
+  "name": "gae-firebase-server",
+  "description": "Firebase listener for service tasks",
+  "version": "0.0.1",
+  "author": "KyperTech",
+  "license": "MIT",
+  "engines": {
+    "node": ">=4.3.2"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^4.0.6"
+  }
+}
